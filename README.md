@@ -4,4 +4,4 @@ Strona internetowa ITAD UEP 2016.
 
 ### Commit
 
-Zapraszamy do pull request\'ów
+Zapraszamy do pull request'ów
