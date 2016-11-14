@@ -1,0 +1,6 @@
+#bulight {
+    background: url("assets/images/bulight.jpg") no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+}
